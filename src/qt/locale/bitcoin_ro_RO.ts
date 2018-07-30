@@ -1731,8 +1731,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 PURE</source>
-        <translation>123.456 PURE {0.00 ?}</translation>
+        <source>0.00 SIERRACOIN</source>
+        <translation>123.456 SIERRACOIN {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1801,8 +1801,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 PURE</source>
-        <translation>123.456 PURE</translation>
+        <source>123.456 SIERRACOIN</source>
+        <translation>123.456 SIERRACOIN</translation>
     </message>
     <message>
         <location line="+31"/>

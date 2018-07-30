@@ -1714,7 +1714,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 PURE</source>
+        <source>0.00 SIERRACOIN</source>
         <translation type="unfinished"/>
     </message>
     <message>

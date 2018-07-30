@@ -9,7 +9,7 @@
 #include "clientversion.h"
 
 //
-// Bootup the masternode, look for a 2500 PURE input and register on the network
+// Bootup the masternode, look for a 2500 SIERRACOIN input and register on the network
 //
 void CActiveMasternode::ManageStatus()
 {
